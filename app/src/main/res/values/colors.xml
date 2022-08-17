@@ -1,0 +1,18 @@
+<resources>
+	<color	name="colorPrimary">#2196F3</color>
+	<color	name="colorPrimaryDark">#1E88E5</color>
+	<color	name="colorAccent">#2196F3</color>
+	<color	name="colorControlHighlight">#90CAF9</color>
+	<color	name="colorControlNormal">#90CAF9</color>
+	<color name="Grey_212121">#212121</color>
+	<color name="Grey_424242">#424242</color>
+	<color name="Grey_616161">#616161</color>
+	<color name="Grey_757575">#757575</color>
+	<color name="Grey_9E9E9E">#9E9E9E</color>
+	<color name="Grey_BDBDBD">#BDBDBD</color>
+	<color name="Grey_E0E0E0">#E0E0E0</color>
+	<color name="Grey_EEEEEE">#EEEEEE</color>
+	<color name="Grey_F5F5F5">#F5F5F5</color>
+	<color name="White">@android:color/white</color>
+	<color name="Black">@android:color/black</color>
+</resources>
